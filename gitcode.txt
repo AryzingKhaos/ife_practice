@@ -1,0 +1,5 @@
+cd J:\git_use\webFront\ife_practice\ife_practice
+git add .  
+git commit -m "time, content"
+git push
+

@@ -1,0 +1,58 @@
+body{
+	background-color: #ddd;
+	width: 100%;
+	/*padding:20px;*/
+}
+
+#side{
+	background-color: #fff;
+	border:1px solid #111;
+	width:160px;
+	height: 150px;
+	padding:20px;
+	position: absolute;
+	left:20px;
+	/*display: block;*/
+	/*margin:0;*/
+}
+
+.logo{
+	background-color: rgb(223,223,223);
+	text-align: center;
+	border:1px solid #111;
+	width: 40px;
+	height:40px;
+	/*display: block;*/
+	/*display: inline;*/
+	padding:20px;
+	float: left;
+	font-size: 12px;
+}
+.termname{
+	/*display: block;*/
+	/*display: inline;*/
+	padding:20px 0 0 20px;
+	float: left;
+	font-size: 12px;
+
+}
+#main{
+	background-color: #fff;
+	border:1px solid #111;
+	float: left;
+	/*display: block;*/
+	margin:0 160px 0 240px;
+	padding:20px;
+	/*width:400px;*/
+	/*height: 500px;*/
+}
+#right{
+	background-color: #fff;
+	border:1px solid #111;
+	padding: 20px;
+	width:80px;
+	float: right;
+	position: absolute;
+	right:20px;
+
+}
